@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/file/AndroidStudioProjects/Android_Video_Example/app/src/main/res/layout/activity_1to1.xml" value="0.4313809320222317" />
+        <entry key="..\:/file/AndroidStudioProjects/Android_Video_Example/app/src/main/res/layout/dialog_multiply_effect.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/icon_exit_svg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/layer_gray_progress_horizontal.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/raw_audio.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/raw_ban.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/selector_btn_enable_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/selector_check_open_or_close.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/selector_enable_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_blue_bround.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_gray_bround1.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_bg_blue.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_bg_gray_blue.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_gray_blue_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_gray_blue_bg1.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_gray_white_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_mute_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/drawable/shape_rectangle_yellow_bg.xml" value="0.446" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/activity_1to1.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/activity_live_video.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/activity_login.xml" value="0.4313809320222317" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/dialog_audience.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/dialog_more.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/dialog_multiply_effect.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/item_safa_people.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/layout_select_resolution.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video-1to1/app/src/main/res/layout/layout_video_preview.xml" value="0.2394185549380077" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/ic_ban.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/ic_stop.xml" value="0.448" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/icon_exit_svg.xml" value="0.1" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/raw_audio.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/raw_ban.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/raw_close.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/raw_disable.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/shape_live_bg.xml" value="0.448" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/shape_rectangle_gray_blue_bg.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/shape_rectangle_gray_blue_bg1.xml" value="0.448" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/drawable/shape_rectangle_mute_bg.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout-1280x720/activity_live_video.xml" value="0.80078125" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout-1280x720/item_live_mai.xml" value="0.9" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout-1280x720/item_live_mai1.xml" value="0.80078125" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_1to1.xml" value="0.25" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_live_video.xml" value="0.44819819819819817" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_live_video1.xml" value="0.43822146216331764" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_login.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_main.xml" value="0.43822146216331764" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_multiplayer_video.xml" value="0.67" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/activity_type_video.xml" value="0.33" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/dialog_audience.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/dialog_more.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/dialog_multiply_effect.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/dialog_mute_remote.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/dialog_person_list.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/item_live_mai.xml" value="1.0" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/item_live_mai1.xml" value="0.43822146216331764" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/item_person_info.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/item_room_msg.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/item_safa_people.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/layout_music_content.xml" value="0.75" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/layout_select_resolution.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/android-video/app/src/main/res/layout/layout_video_preview.xml" value="0.25" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/layer_close_video.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/layer_gray_progress_horizontal.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/layer_open_video.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/layer_progress_horizontal.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/selector_btn_enable_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/selector_cb_tc_style.xml" value="0.334" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/selector_check_open_or_close.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/selector_enable_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_31324D_bg.xml" value="0.334" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_blue_bround.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_circle_point.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_circle_point_gray.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_gray_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_gray_bround.xml" value="0.1805" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_gray_bround1.xml" value="0.3325" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_live_bg.xml" value="0.334" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_bg_blue.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_bg_gray_blue.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_blue_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_frame_gray.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_gray_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_gray_blue_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_gray_bround.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_gray_white_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_while.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_white_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/drawable/shape_rectangle_yellow_bg.xml" value="0.3235" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_1to1.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_live_video.xml" value="0.25" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_login.xml" value="0.3463541666666667" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_main.xml" value="0.3463541666666667" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_multiplayer_video.xml" value="0.33" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_multiplayer_video1.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/activity_type_video.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/dialog_more.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/dialog_multiply_effect.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/dialog_mute_remote.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/dialog_set_video.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/item_live_mai.xml" value="0.67" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/item_live_mic.xml" value="0.9" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/item_room_msg.xml" value="0.28430953398888414" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/item_safa_people.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/layout_music_content.xml" value="0.5" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/layout_select_resolution.xml" value="0.25" />
+        <entry key="..\:/file/AndroidStudioProjects/qtt_video/app/src/main/res/layout/layout_video_preview.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
