@@ -140,7 +140,7 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         ));
         channelEngine.setAudioConfig(AudioQuality.AUDIO_QUALITY_MUSIC_STEREO, AudioMode.AUDIO_MODE_MIX);
         channelEngine.setSpeakerOn(true);
-        channelEngine.join("", roomName, uid);
+        channelEngine.join("", roomName, uid,"");
     }
 
     private void resetVideo(VideoEncoderConfiguration.VideoDimensions videoDimensions) {
@@ -280,7 +280,7 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
 
     private ChannelObserver channelObserver = new ChannelObserver() {
         @Override
-        public void onJoinSuccess(String s, long l, ChannelRole channelRole, boolean b) {
+        public void onJoinSuccess(String s, long l, ChannelRole channelRole, boolean b,String suid) {
             handler.post(new Runnable() {
                 @Override
                 public void run() {
@@ -296,12 +296,12 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         }
 
         @Override
-        public void onReJoinSuccess(String s, long l, ChannelRole channelRole, boolean b) {
+        public void onReJoinSuccess(String s, long l, ChannelRole channelRole, boolean b,String suid) {
 
         }
 
         @Override
-        public void onOtherJoin(long l, ChannelRole channelRole, boolean b) {
+        public void onOtherJoin(long l, ChannelRole channelRole, boolean b,String suid) {
             handler.post(new Runnable() {
                 @Override
                 public void run() {
@@ -363,7 +363,7 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         }
 
         @Override
-        public void onOtherLeave(long l, ChannelRole channelRole) {
+        public void onOtherLeave(long l, ChannelRole channelRole,String suid) {
             handler.post(new Runnable() {
                 @Override
                 public void run() {
@@ -390,7 +390,7 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         }
 
         @Override
-        public void onMuteStatusChanged(long l, boolean b) {
+        public void onMuteStatusChanged(long l, boolean b,String suid) {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
@@ -405,12 +405,12 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         }
 
         @Override
-        public void onRoleStatusChanged(long l, ChannelRole channelRole) {
+        public void onRoleStatusChanged(long l, ChannelRole channelRole,String suid) {
 
         }
 
         @Override
-        public void onNetworkStats(long l, int txQuality, int rxQuality, RtcStat rtcStat) {
+        public void onNetworkStats(long l, int txQuality, int rxQuality, RtcStat rtcStat,String suid) {
 
         }
 
@@ -458,17 +458,17 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
         }
 
         @Override
-        public void onUserEnableVideo(long l, boolean b) {
+        public void onUserEnableVideo(long l, boolean b,String suid) {
 
         }
 
         @Override
-        public void onUserEnableLocalVideo(long l, boolean b) {
+        public void onUserEnableLocalVideo(long l, boolean b,String suid) {
 
         }
 
         @Override
-        public void onUserMuteVideo(long l, boolean b) {
+        public void onUserMuteVideo(long l, boolean b,String suid) {
             runOnUiThread(new Runnable() {
                 @Override
                 public void run() {
@@ -478,6 +478,31 @@ public class VideoChatActivity extends BaseActivity implements View.OnClickListe
                     }
                 }
             });
+        }
+
+        @Override
+        public void onFirstLocalVideoFrame(int i, int i1, int i2, String s) {
+
+        }
+
+        @Override
+        public void onFirstLocalVideoFramePublished(int i, String s) {
+
+        }
+
+        @Override
+        public void onFirstRemoteVideoDecoded(long l, int i, int i1, int i2, String s) {
+
+        }
+
+        @Override
+        public void onFirstRemoteVideoFrame(long l, int i, int i1, int i2, String s) {
+
+        }
+
+        @Override
+        public void onChannelRelayStateChanged(int i, int i1) {
+
         }
     };
 }
